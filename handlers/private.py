@@ -5,7 +5,8 @@ from helpers.filters import other_filters2
 
 MUSICBOT_IMG = "https://telegra.ph/file/423b90ffebdfa598875b0.jpg"
 
-PM_START_TEXT = "I am an Telegram Groups Music bot 🎶 created by \n[Đ€Ş卄ΔĐ€€Ť卄 Ť卄ĪŞΔŘคŇΔ](t.me/DeshadeethThisarana), I let you play music in your group's voice chat.
+PM_START_TEXT = """
+I am an Telegram Groups Music bot 🎶 created by \n[Đ€Ş卄ΔĐ€€Ť卄 Ť卄ĪŞΔŘคŇΔ](t.me/DeshadeethThisarana), I let you play music in your group's voice chat.
 
 The commands I currently support are:
 
@@ -15,7 +16,8 @@ The commands I currently support are:
 /skip - ↪️ Skip the current audio stream
 /mute - 🔇 Mute the userbot
 /unmute - 🔊 Unmute the userbot
-/stop - 🗑🛑 Clear the queue and remove the userbot from the call"
+/stop - 🗑🛑 Clear the queue and remove the userbot from the call
+"""
 
 @Client.on_message(other_filters2)
 async def start(_, message: Message):
