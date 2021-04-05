@@ -22,7 +22,6 @@ The commands I currently support are:
         """,
         MUSICBOT_IMG,
         reply_markup=InlineKeyboardMarkup(
-            [
                     InlineKeyboardButton(
                         "Group", url="https://t.me/gangoffriends"
                     ),
