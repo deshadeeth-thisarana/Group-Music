@@ -35,6 +35,5 @@ The commands I currently support are:
                         "Add me to your group", url="https://t.me/Mr_GroupMusic_bot?startgroup=start" 
                     )
                 ]
-            ]
         )
     )
