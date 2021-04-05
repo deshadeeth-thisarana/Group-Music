@@ -3,6 +3,7 @@ from pyrogram.types import Message, InlineKeyboardMarkup, InlineKeyboardButton
 
 from helpers.filters import other_filters2
 
+MUSICBOT_IMG = "https://telegra.ph/file/423b90ffebdfa598875b0.jpg"
 
 @Client.on_message(other_filters2)
 async def start(_, message: Message):
