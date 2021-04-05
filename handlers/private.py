@@ -21,7 +21,7 @@ The commands I currently support are:
 
 @Client.on_message(other_filters2)
 async def start(_, message: Message):
-    await message.reply_photo(
+    await message.reply_text(
          MUSICBOT_IMG,
          PM_START_TEXT,
         reply_markup=InlineKeyboardMarkup(
