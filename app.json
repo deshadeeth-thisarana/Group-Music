@@ -1,5 +1,6 @@
 {
-  "name": "CallsMusic",
+  "name": "Group Music",
+  "logo": "https://telegra.ph/file/423b90ffebdfa598875b0.jpg"
   "description": "A group call streaming bot made using MarshalX/tgcalls with queue & multiple chats support.",
   "keywords": [
     "telegram",
