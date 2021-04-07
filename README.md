@@ -1,4 +1,4 @@
-# TG Music Player — [Calls Music](https://github.com/callsmusic) & [pytgcalls](https://github.com/MarshalX/tgcalls)-based group call bot with queue and multiple chat support
+# Group Music Player — [Calls Music](https://github.com/callsmusic) & [pytgcalls](https://github.com/MarshalX/tgcalls)-based group call bot with queue and multiple chat support
 
 ## Requirements
 
@@ -35,7 +35,7 @@ Copy `example.env` to `.env` and fill it with your credentials.
 
 ### Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/deshadeeth-thisarana/TG-Music-Player)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/deshadeeth-thisarana/Group-Music)
 
 ## Get Your String Session By [Pyrogram](https://replit.com/@HiTechTech1/PyroStringSession)
 ## Commands
