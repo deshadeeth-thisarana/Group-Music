@@ -15,6 +15,8 @@ The commands I currently support are:
 /mute - 🔇 Mute the userbot
 /unmute - 🔊 Unmute the userbot
 /stop - 🗑🛑 Clear the queue and remove the userbot from the call
+
+You must add @Group_Music_Assistant to your group before send /play command❗️
 """
 
 @Client.on_message(other_filters2)
